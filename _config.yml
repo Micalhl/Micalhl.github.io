@@ -7,7 +7,7 @@
 
 # Site settings
 title: Mical的博客
-brief-intro: A senior high student
+brief-intro: 一个平平无奇的文科生
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mcstarrysky.com" # the base hostname & protocol for your site
 
