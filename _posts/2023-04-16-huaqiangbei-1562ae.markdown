@@ -10,6 +10,9 @@ tags: 华强北 耳机
 什么？华强北也有假货？山寨中的山寨吗？
 
 
+
+
+
 就拿目前的「华强北五代」举例，截止目前（2023年4月16日），五代目前最高只有 1562F 的瑞虎洛达，没有 1562AE。
 ![](https://mcstarrysky.oss-cn-beijing.aliyuncs.com/blog/2023-04-16-1562AE/1.png)
 ![](https://mcstarrysky.oss-cn-beijing.aliyuncs.com/blog/2023-04-16-1562AE/2.png)
