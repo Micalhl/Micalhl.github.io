@@ -25,7 +25,7 @@ tags: 生活 摄影 羽毛球 编程 python 高考
 ![](https://mcstarrysky.oss-cn-beijing.aliyuncs.com/blog/2023-06-05-my-life/2.jpeg)
 ![](https://mcstarrysky.oss-cn-beijing.aliyuncs.com/blog/2023-06-05-my-life/3.jpeg)
 ![](https://mcstarrysky.oss-cn-beijing.aliyuncs.com/blog/2023-06-05-my-life/4.jpeg)
-| 值得一题的是，买完之后好像立马就涨价了。
+> 值得一题的是，买完之后好像立马就涨价了。
 
 # 备案
 本来以为我们市满18周岁才能备案，结果随便翻到腾讯云备案，发现当地政策16岁就可以申请备案，于是就准备各种材料提交备案。
